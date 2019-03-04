@@ -29,7 +29,7 @@ public class Main {
     //System.out.println(Kata.encrypt("This is a test!", 1));
     //System.out.println(Kata.decrypt("hskt svr neetn!Ti aai eyitrsig", 1));
     //System.out.println(Arrays.toString(Xbonacci.tribonacci(new double[]{1.0, 1.0, 1.0}, 3)));
-    System.out.println(Arrays.toString(DirReduction.dirReduc(new String[]{"EAST", "EAST", "WEST", "NORTH", "WEST", "EAST", "EAST", "SOUTH", "NORTH", "WEST"})));
+    //System.out.println(Arrays.toString(DirReduction.dirReduc(new String[]{"EAST", "EAST", "WEST", "NORTH", "WEST", "EAST", "EAST", "SOUTH", "NORTH", "WEST"})));
   }
 }
 

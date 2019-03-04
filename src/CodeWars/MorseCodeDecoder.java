@@ -10,8 +10,10 @@ public class MorseCodeDecoder {
         for(int i=0; i< letters.length; i++){
             for(int j=0; j< letters[i].length; j++) {
                 result += letters[i][j];
+                //result += MorseCode.get(letter);
             }
         result += " ";
+
         }
         return result.trim();
     }
